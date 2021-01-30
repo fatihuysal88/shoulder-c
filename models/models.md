@@ -16,5 +16,5 @@
 - InceptionV3 with SpinalFC
 - MobileNetV2 with SpinalFC
 # iii) our ensemble models
-- ensemble model 1: DenseNet169 w/ Standart FC, ResNext50 w/Spinal FC, MobileNetv2 Spinal FC
-- ensemble model 2: 
+- ensemble model 1: DenseNet169 w/Standart FC, ResNext50 w/Spinal FC, DenseNet201 w/ Spinal FC
+- ensemble model 2: ResNet34 w/Spinal FC, DenseNet169 w/Standart FC, DenseNet201 w/ Spinal FC, ResNext50 w/Spinal FC, Sub-Ensemble
