@@ -1,6 +1,5 @@
 # shoulder-c
 PyTorch Implementation for Classification of Fracture/Normal Shoulder Bone X-ray Images
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/classification-of-fracture-and-normal/image-classification-on-fracture-normal)](https://paperswithcode.com/sota/image-classification-on-fracture-normal?p=classification-of-fracture-and-normal)
 # preprint
 ArXiv preprint: http://arxiv.org/abs/2102.00515
 # authors
