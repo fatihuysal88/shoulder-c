@@ -1,5 +1,6 @@
 # shoulder-c
 PyTorch Implementation for Classification of Fracture/Normal Shoulder Bone X-ray Images
+ArXiv preprint: http://arxiv.org/abs/2102.00515
 # authors
 * **Fatih UYSAL** - [fatihuysal88](https://github.com/fatihuysal88)
 * **Ozan PEKER** - [ozanpkr](https://github.com/ozanpkr)
