@@ -16,7 +16,7 @@ ArXiv preprint: http://arxiv.org/abs/2102.00515
 Biomedical Image Classification, Bone Fractures, Deep Learning, Transfer Learning, Ensemble Learning, Shouder, X-ray.
 # proposed classification models
 ![models](https://github.com/fatihuysal88/shoulder-c/blob/main/docs/figs/proposed%20classification%20models.png)
-# models performans
+# models performance
 <img src="https://github.com/fatihuysal88/shoulder-c/blob/main/docs/figs/Cohen%20Kappa%20Score%20Comparison.png" width="718" height="250">
 <img src="https://github.com/fatihuysal88/shoulder-c/blob/main/docs/figs/Test%20Accuracy%20Comparison.png" width="718" height="250">
 <img src="https://github.com/fatihuysal88/shoulder-c/blob/main/docs/figs/AUC%20Score%20Comparison.png" width="718" height="250">
