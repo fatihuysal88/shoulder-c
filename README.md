@@ -1,4 +1,13 @@
 # shoulder-c
+<p align="left">
+  
+<a>[![LICENSE](https://img.shields.io/github/license/fatihuysal88/shoulder-c.svg)](https://github.com/fatihuysal88/shoulder-c/blob/master/LICENSE)</a>
+<a href="https://www.mdpi.com/2076-3417/11/6/2723">
+    <img src="https://img.shields.io/badge/paper-published-blue"/></a>
+<a href="https://doi.org/10.3390/app11062723">
+    <img src="https://img.shields.io/badge/DOI-10.3390%2Fapp11062723-green"/></a>
+</p>
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/classification-of-fracture-and-normal/image-classification-on-fracture-normal)](https://paperswithcode.com/sota/image-classification-on-fracture-normal?p=classification-of-fracture-and-normal)  
 PyTorch Implementation for Classification of Fracture/Normal Shoulder Bone X-ray Images
 # note
