@@ -40,5 +40,4 @@ please cite the paper if you benefit from our paper:
 # models performance
 <img src="https://github.com/fatihuysal88/shoulder-c/blob/main/docs/figs/Cohen%20Kappa%20Score%20Comparison.png" width="718" height="250">
 <img src="https://github.com/fatihuysal88/shoulder-c/blob/main/docs/figs/Test%20Accuracy%20Comparison.png" width="718" height="250">
-<img src="https://github.com/fatihuysal88/shoulder-c/blob/main/docs/figs/AUC%20Score%20Comparison.png" width="718" height="250">  
-
+<img src="https://github.com/fatihuysal88/shoulder-c/blob/main/docs/figs/AUC%20Score%20Comparison.png" width="718" height="250">
